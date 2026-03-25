@@ -3,7 +3,7 @@ import random
 fortunes = [ 
 "Dont give up!! life only goes forward, not backward!", "If you feel useless.. dont be! You ARE someones favorite person. no matter how little they are, They love you!", "Hey! stop procrastinating! i made THIS by coding and not watching tiktoks! go do your passion now.", "Take a break, you need it! drink some water and relax", "install linux trust mee!", "what is life without PIZZA!", "Your fortune is.. nothing! huzzah!!", "You WILL acomplish everything you desire!", "Suicide is NEVER the option.", "Your lucky number....42.", "Go eat!! you havent in a while....",] 
 
-print("Digital Fortune cookie! Version 2.12 Made in PYTHON by Kymani.")
+print("Digital Fortune cookie! Version 2.32 Made in PYTHON by Kymani.")
 while True:
     choice = input("Welcome! Say yes to get a fortune and info for the info. there are also some secrets ^_^ (Press ? for help!!) hope ya find em: ")
     if choice.lower() == "yes":
@@ -22,7 +22,7 @@ while True:
          print("Invalid Or You wanna exit. Bye now! Automatically exiting.",)
          break
 #coder: Kymani Lc Hargers!
-#current ver: 2.12
+#current ver: 2.13
 #coding in Python! read below for features
 #Update-log--------------------------------------------------------
 	#BETA 1 FORTUNE COOKIE CODE
